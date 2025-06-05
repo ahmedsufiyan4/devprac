@@ -14,6 +14,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
+    <maven.compiler.source>8</mavem.compiler.source>
+      <maven.compiler.target>8</mavem.compiler.target>
   </properties>
 
   <dependencyManagement>
